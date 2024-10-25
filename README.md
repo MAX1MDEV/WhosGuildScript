@@ -12,10 +12,8 @@ All you need to use the script is to copy the user ID.
 ### Installation (If you don't want to download [Release](https://github.com/MAX1MDEV/WhosGuildScript/releases/tag/release-1.0).)
 1.  ```
     pip install -r requirements.txt
-    ```
 
     ```
 2.  python main.py
-    ```
 
 [Changelog](CHANGELOG.md)
