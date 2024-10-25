@@ -3,15 +3,14 @@ This script makes it easier to create commands and messages (I made it for mysel
 All you need to use the script is to copy the user ID.
 
 ### Supported commands/message
-| Commands/Message   | Text
-| :----------------- | :-----------------
-| ?warn        | ?warn [ID] You have under 1 hour to wear our guild Tag, failure to do so will result in a termination from the guild and less chance to be accepted again
-| ?kick        | ?Kick [ID] Breaking the guild rules by not wearing the guild tag
-| Hello        | Hello (user)! You all have **3HOURS** to equip the guild tag. If you are having troubles check out https://discord.com/channels/1257491631565967430/1274795918255984651 Failure to put on the tag 
-               | after **3 hours** will result in you being **kicked** from **the Guild.**
+| Commands/Message | Text |
+| :--------------- | :--- |
+| ?warn            | ?warn [ID] You have under 1 hour to wear our guild Tag, failure to do so will result in a termination from the guild and less chance to be accepted again |
+| ?kick            | ?Kick [ID] Breaking the guild rules by not wearing the guild tag |
+| Hello            | Hello (user)! You all have **3HOURS** to equip the guild tag. If you are having troubles check out https://discord.com/channels/1257491631565967430/1274795918255984651<br>Failure to put on the tag after **3 hours** will result in you being **kicked** from **the Guild.** |
 
 ### Installation (If you don't want to download Release.)
-1. ```pip install -r requirements.txt```
-2. ```python main.py```
+1. | pip install -r requirements.txt
+2. | python main.py
 
 [Changelog](CHANGELOG.md)
