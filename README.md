@@ -1,5 +1,6 @@
 # WhosGuildScript
 This script makes it easier to create commands and messages (I made it for myself, it's more convenient for me, if you have any problems or ideas, write them in [issues](https://github.com/MAX1MDEV/WhosGuildScript/issues)).
+
 All you need to use the script is to copy the user ID.
 
 The script console looks like this:
