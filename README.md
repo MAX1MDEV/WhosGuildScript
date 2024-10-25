@@ -4,7 +4,7 @@ All you need to use the script is to copy the user ID.
 
 The script console looks like this:
 
-<img src="images/whosguildscript.png" title="Script console" alt="Script console">
+<img src="images/whosguildscipt.png" title="Script console" alt="Script console">
 
 ### Supported commands/message
 | Commands/Message | Text |
