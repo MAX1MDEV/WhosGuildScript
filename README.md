@@ -14,7 +14,7 @@ The script console looks like this:
 | ?kick            | ?Kick [ID] Breaking the guild rules by not wearing the guild tag |
 | Hello            | Hello (user)! You all have **3HOURS** to equip the guild tag. If you are having troubles check out https://discord.com/channels/1257491631565967430/1274795918255984651<br>Failure to put on the tag after **3 hours** will result in you being **kicked** from **the Guild.** |
 
-### Installation (If you don't want to download [Release](https://github.com/MAX1MDEV/WhosGuildScript/releases/tag/release-1.0))
+### Installation (If you don't want to download [Release](https://github.com/MAX1MDEV/WhosGuildScript/releases/tag/release-1.1))
 1.  
     ```
     pip install -r requirements.txt
