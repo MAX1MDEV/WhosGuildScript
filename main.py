@@ -2,7 +2,7 @@ import requests
 import pyperclip
 from cursesmenu import CursesMenu
 from cursesmenu.items import FunctionItem, SubmenuItem, CommandItem
-
+#version 1.1
 class WhosHelper:
     @staticmethod
     def warn():
