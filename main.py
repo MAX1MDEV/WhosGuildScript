@@ -7,7 +7,7 @@ class WhosHelper:
     @staticmethod
     def warn():
         user_id = input("Insert user ID: ")
-        message = f"?warn {user_id} You have under 1 hour to wear our guild Tag, failure to do so will result in a termination from the guild and less chance to be accepted again"
+        message = f"?warn {user_id} You have under 1 hour to wear our guild Tag, failure to do so will result in a termination from the guild"
         pyperclip.copy(message)
         print("Command text is copied to the clipboard!")
         input("Press Enter to return to the menu...")
